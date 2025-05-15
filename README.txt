@@ -1,0 +1,1 @@
+To run locally: Unzip this package and open index.html in your browser. No server or database required for demo.
